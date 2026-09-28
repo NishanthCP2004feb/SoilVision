@@ -1,0 +1,778 @@
+[
+  {
+    "path_a": "Orignal-Dataset/Alluvial_Soil/16.jpg",
+    "label_a": "Alluvial_Soil",
+    "path_b": "Orignal-Dataset/Alluvial_Soil/25.jpg",
+    "label_b": "Alluvial_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Alluvial_Soil/31.jpg",
+    "label_a": "Alluvial_Soil",
+    "path_b": "Orignal-Dataset/Alluvial_Soil/41.jpg",
+    "label_b": "Alluvial_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Alluvial_Soil/31.jpg",
+    "label_a": "Alluvial_Soil",
+    "path_b": "Orignal-Dataset/Alluvial_Soil/44.jpg",
+    "label_b": "Alluvial_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Alluvial_Soil/41.jpg",
+    "label_a": "Alluvial_Soil",
+    "path_b": "Orignal-Dataset/Alluvial_Soil/44.jpg",
+    "label_b": "Alluvial_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/108.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/160.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/118.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/45.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/126.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/254.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/161.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/242.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/161.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/56.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/170.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/206.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/171.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/27.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/225.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/5.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/242.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/56.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/117.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/69.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/12.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/92.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/134.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/23.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/136.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/78.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/137.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/33.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/14.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/184.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/154.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/46.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/155.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/55.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/16.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/94.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/181.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/65.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/182.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/52.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/192.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/3.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/202.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/40.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/203.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/57.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/205.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/45.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/206.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/41.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/208.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/48.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/210.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/63.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/212.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/47.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/213.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/67.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/221.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/72.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/222.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/42.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/30.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/99.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/6.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/90.jpg",
+    "label_b": "Black_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/10a.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/169.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/141.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/46.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/164.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/47.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/179.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/20.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/182.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/43.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/23.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/282.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/234.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/57.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/252.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/69.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/27.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/81.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/11.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/124.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/13.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/226.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/137.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/31.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/14.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/73.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/140.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/53.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/144.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/52.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/147.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/34.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/215.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/57.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/225.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/39.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/59.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/88.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Red_Soil/28.jpg",
+    "label_a": "Red_Soil",
+    "path_b": "Orignal-Dataset/Red_Soil/30.jpg",
+    "label_b": "Red_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Red_Soil/4.jpg",
+    "label_a": "Red_Soil",
+    "path_b": "Orignal-Dataset/Red_Soil/41c.jpeg",
+    "label_b": "Red_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Red_Soil/44.jpg",
+    "label_a": "Red_Soil",
+    "path_b": "Orignal-Dataset/Red_Soil/9.jpg",
+    "label_b": "Red_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Red_Soil/51.jpg",
+    "label_a": "Red_Soil",
+    "path_b": "Orignal-Dataset/Red_Soil/76.jpg",
+    "label_b": "Red_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Red_Soil/8.jpg",
+    "label_a": "Red_Soil",
+    "path_b": "Orignal-Dataset/Red_Soil/83.jpg",
+    "label_b": "Red_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Yellow_Soil/10.jpg",
+    "label_a": "Yellow_Soil",
+    "path_b": "Orignal-Dataset/Yellow_Soil/34.jpg",
+    "label_b": "Yellow_Soil",
+    "kind": "near",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Yellow_Soil/16.jpg",
+    "label_a": "Yellow_Soil",
+    "path_b": "Orignal-Dataset/Yellow_Soil/53.jpg",
+    "label_b": "Yellow_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Yellow_Soil/23.jpg",
+    "label_a": "Yellow_Soil",
+    "path_b": "Orignal-Dataset/Yellow_Soil/39.jpg",
+    "label_b": "Yellow_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Yellow_Soil/26.jpg",
+    "label_a": "Yellow_Soil",
+    "path_b": "Orignal-Dataset/Yellow_Soil/59.jpg",
+    "label_b": "Yellow_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Yellow_Soil/45.jpg",
+    "label_a": "Yellow_Soil",
+    "path_b": "Orignal-Dataset/Yellow_Soil/9.jpg",
+    "label_b": "Yellow_Soil",
+    "kind": "exact",
+    "phash_distance": 0
+  },
+  {
+    "path_a": "Orignal-Dataset/Alluvial_Soil/33.jpg",
+    "label_a": "Alluvial_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/279.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/118.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/214.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/147.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/212.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/169.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/233.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/214.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/45.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/106.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/11.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/106.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/223.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/18.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/83.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/2.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/80.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/220.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/66.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/165.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/234.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/165.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/57.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Red_Soil/73.jpg",
+    "label_a": "Red_Soil",
+    "path_b": "Orignal-Dataset/Red_Soil/78.jpg",
+    "label_b": "Red_Soil",
+    "kind": "near",
+    "phash_distance": 2
+  },
+  {
+    "path_a": "Orignal-Dataset/Alluvial_Soil/42.jpg",
+    "label_a": "Alluvial_Soil",
+    "path_b": "Orignal-Dataset/Alluvial_Soil/45.jpg",
+    "label_b": "Alluvial_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/153.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/244.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/11.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/223.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/122.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/32.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/124.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/222.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/165.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/64.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/234.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/64.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/57.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/64.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/84.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Red_Soil/12.jpg",
+    "label_b": "Red_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/113.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/60.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/16.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/219.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "near",
+    "phash_distance": 4
+  },
+  {
+    "path_a": "Orignal-Dataset/Alluvial_Soil/33.jpg",
+    "label_a": "Alluvial_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/79.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 6
+  },
+  {
+    "path_a": "Orignal-Dataset/Arid_Soil/178.jpg",
+    "label_a": "Arid_Soil",
+    "path_b": "Orignal-Dataset/Arid_Soil/238.jpg",
+    "label_b": "Arid_Soil",
+    "kind": "near",
+    "phash_distance": 6
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/144.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Black_Soil/34.jpg",
+    "label_b": "Black_Soil",
+    "kind": "near",
+    "phash_distance": 6
+  },
+  {
+    "path_a": "Orignal-Dataset/Black_Soil/152.jpg",
+    "label_a": "Black_Soil",
+    "path_b": "Orignal-Dataset/Red_Soil/23.jpg",
+    "label_b": "Red_Soil",
+    "kind": "near",
+    "phash_distance": 6
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/279.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/79.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 6
+  },
+  {
+    "path_a": "Orignal-Dataset/Laterite_Soil/52.jpg",
+    "label_a": "Laterite_Soil",
+    "path_b": "Orignal-Dataset/Laterite_Soil/78.jpg",
+    "label_b": "Laterite_Soil",
+    "kind": "near",
+    "phash_distance": 6
+  },
+  {
+    "path_a": "Orignal-Dataset/Mountain_Soil/113a.jpg",
+    "label_a": "Mountain_Soil",
+    "path_b": "Orignal-Dataset/Mountain_Soil/60a.jpg",
+    "label_b": "Mountain_Soil",
+    "kind": "near",
+    "phash_distance": 6
+  }
+]

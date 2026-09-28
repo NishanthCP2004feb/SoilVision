@@ -1,0 +1,166 @@
+{
+  "generated_at": "2026-08-10T17:01:09.798880+00:00",
+  "dataset_root": "Orignal-Dataset",
+  "valid_images": 1189,
+  "corrupted_or_unsupported_files": 0,
+  "class_distribution": {
+    "Alluvial_Soil": 52,
+    "Arid_Soil": 284,
+    "Black_Soil": 255,
+    "Laterite_Soil": 219,
+    "Mountain_Soil": 201,
+    "Red_Soil": 109,
+    "Yellow_Soil": 69
+  },
+  "formats": {
+    "JPEG": 1187,
+    "WEBP": 2
+  },
+  "extensions": {
+    ".jpeg": 2,
+    ".jpg": 1186,
+    ".webp": 1
+  },
+  "modes": {
+    "RGB": 1189
+  },
+  "unique_dimensions": 959,
+  "most_common_dimensions": [
+    {
+      "width": 612,
+      "height": 408,
+      "count": 20
+    },
+    {
+      "width": 626,
+      "height": 417,
+      "count": 18
+    },
+    {
+      "width": 1300,
+      "height": 866,
+      "count": 15
+    },
+    {
+      "width": 540,
+      "height": 360,
+      "count": 12
+    },
+    {
+      "width": 800,
+      "height": 534,
+      "count": 10
+    },
+    {
+      "width": 600,
+      "height": 400,
+      "count": 9
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "count": 8
+    },
+    {
+      "width": 480,
+      "height": 270,
+      "count": 7
+    },
+    {
+      "width": 390,
+      "height": 255,
+      "count": 6
+    },
+    {
+      "width": 1300,
+      "height": 867,
+      "count": 6
+    },
+    {
+      "width": 320,
+      "height": 240,
+      "count": 5
+    },
+    {
+      "width": 626,
+      "height": 418,
+      "count": 5
+    },
+    {
+      "width": 509,
+      "height": 339,
+      "count": 5
+    },
+    {
+      "width": 700,
+      "height": 540,
+      "count": 5
+    },
+    {
+      "width": 600,
+      "height": 450,
+      "count": 4
+    },
+    {
+      "width": 1600,
+      "height": 1054,
+      "count": 4
+    },
+    {
+      "width": 602,
+      "height": 401,
+      "count": 4
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "count": 4
+    },
+    {
+      "width": 300,
+      "height": 200,
+      "count": 4
+    },
+    {
+      "width": 450,
+      "height": 300,
+      "count": 4
+    },
+    {
+      "width": 1600,
+      "height": 1200,
+      "count": 3
+    },
+    {
+      "width": 220,
+      "height": 165,
+      "count": 3
+    },
+    {
+      "width": 800,
+      "height": 530,
+      "count": 3
+    },
+    {
+      "width": 465,
+      "height": 279,
+      "count": 3
+    },
+    {
+      "width": 960,
+      "height": 636,
+      "count": 3
+    }
+  ],
+  "min_width": 140,
+  "max_width": 3888,
+  "min_height": 101,
+  "max_height": 2592,
+  "duplicates": {
+    "threshold": 6,
+    "exact_pairs": 50,
+    "near_pairs": 47,
+    "cross_class_pairs": 4,
+    "related_groups": 82
+  }
+}

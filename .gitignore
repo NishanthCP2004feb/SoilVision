@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+node_modules/
+frontend/dist/
+storage/
+soil_dev.db
+ml/artifacts/*
+!ml/artifacts/.gitkeep
+ml/reports/model_evaluation/*
+!ml/reports/model_evaluation/.gitkeep
+ml/data/review_sheets/

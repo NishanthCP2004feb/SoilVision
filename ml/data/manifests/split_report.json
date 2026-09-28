@@ -1,0 +1,39 @@
+{
+  "seed": 20260810,
+  "dataset_version": "soil_dataset_v1_cleaned",
+  "counts": {
+    "train": 792,
+    "validation": 171,
+    "test": 170
+  },
+  "class_counts": {
+    "train": {
+      "Alluvial_Soil": 34,
+      "Arid_Soil": 195,
+      "Black_Soil": 163,
+      "Laterite_Soil": 148,
+      "Mountain_Soil": 134,
+      "Red_Soil": 73,
+      "Yellow_Soil": 45
+    },
+    "validation": {
+      "Alluvial_Soil": 8,
+      "Arid_Soil": 42,
+      "Black_Soil": 35,
+      "Laterite_Soil": 31,
+      "Mountain_Soil": 29,
+      "Red_Soil": 16,
+      "Yellow_Soil": 10
+    },
+    "test": {
+      "Alluvial_Soil": 7,
+      "Arid_Soil": 42,
+      "Black_Soil": 35,
+      "Laterite_Soil": 32,
+      "Mountain_Soil": 28,
+      "Red_Soil": 16,
+      "Yellow_Soil": 10
+    }
+  },
+  "policy": "Every group_id is allocated to exactly one split."
+}

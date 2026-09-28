@@ -1,0 +1,10 @@
+{
+  "dataset_version": "soil_dataset_v1_cleaning_pending_review",
+  "total": 1189,
+  "statuses": {
+    "DUPLICATE": 49,
+    "QUARANTINED": 7,
+    "USABLE_PENDING_CONTEXT_REVIEW": 1133
+  },
+  "policy": "Only rows changed to USABLE after documented human context review may enter a final training split."
+}

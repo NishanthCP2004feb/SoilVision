@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Rice",
+    "suitable_soil_types": ["Alluvial_Soil", "Red_Soil", "Yellow_Soil"],
+    "seasons": ["Kharif"],
+    "requirements": {
+      "ph": [5.5, 7.5],
+      "nitrogen": [100, 150],
+      "potassium": [40, 60]
+    },
+    "references": ["https://icar.org.in/rice-cultivation"]
+  },
+  {
+    "name": "Wheat",
+    "suitable_soil_types": ["Alluvial_Soil", "Black_Soil"],
+    "seasons": ["Rabi"],
+    "requirements": {
+      "ph": [6.0, 7.5],
+      "nitrogen": [120, 150],
+      "potassium": [40, 60]
+    },
+    "references": ["https://icar.org.in/wheat-cultivation"]
+  },
+  {
+    "name": "Groundnut",
+    "suitable_soil_types": ["Red_Soil", "Yellow_Soil", "Laterite_Soil"],
+    "seasons": ["Kharif"],
+    "requirements": {
+      "ph": [6.0, 7.0],
+      "nitrogen": [20, 40],
+      "potassium": [40, 50]
+    },
+    "references": ["https://icar.org.in/groundnut-cultivation"]
+  },
+  {
+    "name": "Millet",
+    "suitable_soil_types": ["Red_Soil", "Yellow_Soil", "Arid_Soil"],
+    "seasons": ["Kharif"],
+    "requirements": {
+      "ph": [5.5, 8.0],
+      "nitrogen": [40, 60],
+      "potassium": [20, 30]
+    },
+    "references": ["https://icar.org.in/millet-cultivation"]
+  },
+  {
+    "name": "Cotton",
+    "suitable_soil_types": ["Black_Soil"],
+    "seasons": ["Kharif"],
+    "requirements": {
+      "ph": [6.0, 8.0],
+      "nitrogen": [80, 120],
+      "potassium": [40, 60]
+    },
+    "references": ["https://icar.org.in/cotton-cultivation"]
+  },
+  {
+    "name": "Soybean",
+    "suitable_soil_types": ["Black_Soil"],
+    "seasons": ["Kharif"],
+    "requirements": {
+      "ph": [6.0, 7.5],
+      "nitrogen": [20, 30],
+      "potassium": [40, 60]
+    },
+    "references": ["https://icar.org.in/soybean-cultivation"]
+  },
+  {
+    "name": "Maize",
+    "suitable_soil_types": ["Alluvial_Soil", "Red_Soil", "Laterite_Soil"],
+    "seasons": ["Kharif", "Rabi"],
+    "requirements": {
+      "ph": [5.8, 7.5],
+      "nitrogen": [120, 150],
+      "potassium": [40, 60]
+    },
+    "references": ["https://icar.org.in/maize-cultivation"]
+  },
+  {
+    "name": "Sugarcane",
+    "suitable_soil_types": ["Alluvial_Soil", "Black_Soil", "Red_Soil"],
+    "seasons": ["Kharif"],
+    "requirements": {
+      "ph": [6.5, 7.5],
+      "nitrogen": [250, 300],
+      "potassium": [100, 150]
+    },
+    "references": ["https://icar.org.in/sugarcane-cultivation"]
+  },
+  {
+    "name": "Potato",
+    "suitable_soil_types": ["Alluvial_Soil", "Mountain_Soil"],
+    "seasons": ["Rabi"],
+    "requirements": {
+      "ph": [5.0, 6.5],
+      "nitrogen": [120, 150],
+      "potassium": [100, 120]
+    },
+    "references": ["https://icar.org.in/potato-cultivation"]
+  },
+  {
+    "name": "Tea",
+    "suitable_soil_types": ["Laterite_Soil", "Mountain_Soil"],
+    "seasons": ["Kharif", "Rabi"],
+    "requirements": {
+      "ph": [4.5, 5.5],
+      "nitrogen": [90, 120],
+      "potassium": [40, 60]
+    },
+    "references": ["https://icar.org.in/tea-cultivation"]
+  },
+  {
+    "name": "Coffee",
+    "suitable_soil_types": ["Laterite_Soil", "Mountain_Soil", "Red_Soil"],
+    "seasons": ["Kharif"],
+    "requirements": {
+      "ph": [5.0, 6.0],
+      "nitrogen": [100, 150],
+      "potassium": [70, 90]
+    },
+    "references": ["https://icar.org.in/coffee-cultivation"]
+  },
+  {
+    "name": "Barley",
+    "suitable_soil_types": ["Alluvial_Soil", "Arid_Soil"],
+    "seasons": ["Rabi"],
+    "requirements": {
+      "ph": [6.0, 8.0],
+      "nitrogen": [60, 80],
+      "potassium": [30, 40]
+    },
+    "references": ["https://icar.org.in/barley-cultivation"]
+  },
+  {
+    "name": "Mustard",
+    "suitable_soil_types": ["Alluvial_Soil", "Arid_Soil"],
+    "seasons": ["Rabi"],
+    "requirements": {
+      "ph": [6.0, 7.5],
+      "nitrogen": [80, 100],
+      "potassium": [40, 50]
+    },
+    "references": ["https://icar.org.in/mustard-cultivation"]
+  },
+  {
+    "name": "Chickpea",
+    "suitable_soil_types": ["Black_Soil", "Alluvial_Soil"],
+    "seasons": ["Rabi"],
+    "requirements": {
+      "ph": [6.0, 7.5],
+      "nitrogen": [20, 30],
+      "potassium": [20, 30]
+    },
+    "references": ["https://icar.org.in/chickpea-cultivation"]
+  },
+  {
+    "name": "Turmeric",
+    "suitable_soil_types": ["Red_Soil", "Alluvial_Soil", "Laterite_Soil"],
+    "seasons": ["Kharif"],
+    "requirements": {
+      "ph": [5.5, 6.5],
+      "nitrogen": [120, 150],
+      "potassium": [100, 120]
+    },
+    "references": ["https://icar.org.in/turmeric-cultivation"]
+  }
+]

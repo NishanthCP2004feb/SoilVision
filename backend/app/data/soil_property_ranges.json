@@ -1,0 +1,69 @@
+{
+  "source": "Compiled from ICAR Soil Classification standards, NBSS&LUP Technical Bulletins, and Indian state agriculture university soil survey reports",
+  "disclaimer": "These are typical reference ranges for broad soil categories in the Indian context. Actual values vary significantly by location, depth, management history, and season. These ranges are NOT predictions from the uploaded image.",
+  "ranges": {
+    "Alluvial_Soil": {
+      "ph": {"min": 6.5, "max": 8.5, "typical": 7.5, "unit": "", "source": "ICAR - Soils of India", "notes": "Varies from slightly acidic in upper Gangetic plains to alkaline in lower reaches"},
+      "nitrogen": {"min": 150, "max": 350, "typical": 250, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Generally medium to high; varies with organic matter content"},
+      "phosphorus": {"min": 10, "max": 50, "typical": 25, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low to medium; phosphorus fixation common"},
+      "potassium": {"min": 100, "max": 350, "typical": 200, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Medium to high in most alluvial plains"},
+      "moisture": {"min": 15, "max": 40, "typical": 25, "unit": "%", "source": "NBSS&LUP Soil Survey", "notes": "Good water retention due to fine texture"},
+      "organic_carbon": {"min": 0.3, "max": 1.0, "typical": 0.5, "unit": "%", "source": "ICAR Soil Health Card norms", "notes": "Generally low to medium"},
+      "electrical_conductivity": {"min": 0.1, "max": 2.0, "typical": 0.5, "unit": "dS/m", "source": "NBSS&LUP Soil Survey", "notes": "Can be high in saline-alkaline areas"}
+    },
+    "Arid_Soil": {
+      "ph": {"min": 7.0, "max": 9.5, "typical": 8.2, "unit": "", "source": "ICAR - Soils of India", "notes": "Typically alkaline due to high base saturation and calcareous nature"},
+      "nitrogen": {"min": 50, "max": 150, "typical": 100, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low due to sparse vegetation and rapid organic matter decomposition"},
+      "phosphorus": {"min": 15, "max": 60, "typical": 30, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Variable; phosphorus often locked in calcium compounds"},
+      "potassium": {"min": 100, "max": 400, "typical": 250, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Often adequate to high"},
+      "moisture": {"min": 2, "max": 15, "typical": 8, "unit": "%", "source": "NBSS&LUP Soil Survey", "notes": "Very low water retention; sandy texture dominant"},
+      "organic_carbon": {"min": 0.1, "max": 0.4, "typical": 0.2, "unit": "%", "source": "ICAR Soil Health Card norms", "notes": "Very low organic matter"},
+      "electrical_conductivity": {"min": 0.5, "max": 8.0, "typical": 2.5, "unit": "dS/m", "source": "NBSS&LUP Soil Survey", "notes": "Often high due to salinity"}
+    },
+    "Black_Soil": {
+      "ph": {"min": 7.0, "max": 8.5, "typical": 7.8, "unit": "", "source": "ICAR - Soils of India", "notes": "Neutral to moderately alkaline; high in calcium and magnesium"},
+      "nitrogen": {"min": 100, "max": 250, "typical": 170, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low to medium; high clay content limits nitrogen availability"},
+      "phosphorus": {"min": 5, "max": 35, "typical": 18, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Generally low; phosphorus fixation in calcareous clays"},
+      "potassium": {"min": 200, "max": 500, "typical": 350, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "High potassium from montmorillonite clay minerals"},
+      "moisture": {"min": 25, "max": 55, "typical": 38, "unit": "%", "source": "NBSS&LUP Soil Survey", "notes": "Excellent water retention from smectite clays; shrink-swell behavior"},
+      "organic_carbon": {"min": 0.3, "max": 0.9, "typical": 0.6, "unit": "%", "source": "ICAR Soil Health Card norms", "notes": "Low to medium; dark color from titaniferous minerals, not organic matter"},
+      "electrical_conductivity": {"min": 0.2, "max": 3.0, "typical": 0.8, "unit": "dS/m", "source": "NBSS&LUP Soil Survey", "notes": "Can accumulate salts in vertisol profiles"}
+    },
+    "Laterite_Soil": {
+      "ph": {"min": 4.5, "max": 6.5, "typical": 5.5, "unit": "", "source": "ICAR - Soils of India", "notes": "Acidic due to intense leaching of bases under tropical conditions"},
+      "nitrogen": {"min": 100, "max": 250, "typical": 180, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low to medium; rapid organic matter turnover"},
+      "phosphorus": {"min": 3, "max": 20, "typical": 10, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Very low; phosphorus strongly fixed by iron and aluminium oxides"},
+      "potassium": {"min": 50, "max": 200, "typical": 120, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low due to intense leaching"},
+      "moisture": {"min": 10, "max": 30, "typical": 20, "unit": "%", "source": "NBSS&LUP Soil Survey", "notes": "Moderate; depends on iron oxide cementation"},
+      "organic_carbon": {"min": 0.5, "max": 1.5, "typical": 0.8, "unit": "%", "source": "ICAR Soil Health Card norms", "notes": "Medium in surface layers under forest cover"},
+      "electrical_conductivity": {"min": 0.05, "max": 0.5, "typical": 0.2, "unit": "dS/m", "source": "NBSS&LUP Soil Survey", "notes": "Low; bases heavily leached"}
+    },
+    "Mountain_Soil": {
+      "ph": {"min": 4.5, "max": 6.5, "typical": 5.5, "unit": "", "source": "ICAR - Soils of India", "notes": "Acidic; high rainfall leads to leaching of cations"},
+      "nitrogen": {"min": 200, "max": 500, "typical": 350, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "High due to accumulation of organic matter in cool conditions"},
+      "phosphorus": {"min": 5, "max": 30, "typical": 15, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low to medium; limited by acidic conditions"},
+      "potassium": {"min": 100, "max": 300, "typical": 180, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Medium; depends on parent rock composition"},
+      "moisture": {"min": 20, "max": 50, "typical": 35, "unit": "%", "source": "NBSS&LUP Soil Survey", "notes": "High moisture from precipitation; good humus content aids retention"},
+      "organic_carbon": {"min": 1.0, "max": 5.0, "typical": 2.5, "unit": "%", "source": "ICAR Soil Health Card norms", "notes": "High to very high; slow decomposition in cool climate"},
+      "electrical_conductivity": {"min": 0.05, "max": 0.4, "typical": 0.15, "unit": "dS/m", "source": "NBSS&LUP Soil Survey", "notes": "Very low; heavy leaching"}
+    },
+    "Red_Soil": {
+      "ph": {"min": 5.0, "max": 7.5, "typical": 6.5, "unit": "", "source": "ICAR - Soils of India", "notes": "Slightly acidic to neutral; derived from crystalline and metamorphic rocks"},
+      "nitrogen": {"min": 100, "max": 250, "typical": 160, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low to medium"},
+      "phosphorus": {"min": 5, "max": 25, "typical": 12, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low; iron oxide fixation"},
+      "potassium": {"min": 80, "max": 250, "typical": 150, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low to medium"},
+      "moisture": {"min": 10, "max": 30, "typical": 18, "unit": "%", "source": "NBSS&LUP Soil Survey", "notes": "Low to moderate; porous and well-drained"},
+      "organic_carbon": {"min": 0.2, "max": 0.8, "typical": 0.4, "unit": "%", "source": "ICAR Soil Health Card norms", "notes": "Low organic matter content"},
+      "electrical_conductivity": {"min": 0.1, "max": 1.0, "typical": 0.3, "unit": "dS/m", "source": "NBSS&LUP Soil Survey", "notes": "Generally low"}
+    },
+    "Yellow_Soil": {
+      "ph": {"min": 4.5, "max": 7.0, "typical": 5.8, "unit": "", "source": "ICAR - Soils of India", "notes": "Acidic to neutral; hydrated iron oxide gives yellow color"},
+      "nitrogen": {"min": 100, "max": 250, "typical": 170, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low to medium"},
+      "phosphorus": {"min": 5, "max": 20, "typical": 10, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low; similar to red soils with iron oxide fixation"},
+      "potassium": {"min": 80, "max": 220, "typical": 140, "unit": "kg/ha", "source": "ICAR Soil Fertility Maps", "notes": "Low to medium"},
+      "moisture": {"min": 12, "max": 35, "typical": 22, "unit": "%", "source": "NBSS&LUP Soil Survey", "notes": "Moderate; better than red soils in humid regions"},
+      "organic_carbon": {"min": 0.3, "max": 1.0, "typical": 0.5, "unit": "%", "source": "ICAR Soil Health Card norms", "notes": "Low to medium"},
+      "electrical_conductivity": {"min": 0.1, "max": 0.8, "typical": 0.25, "unit": "dS/m", "source": "NBSS&LUP Soil Survey", "notes": "Low"}
+    }
+  }
+}
